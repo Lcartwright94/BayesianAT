@@ -41,7 +41,7 @@ into the Console, and hit the enter/return key.
 
 * Open "Plots.R" in RStudio, and set the working directory as described above.
 
-* Once the working directory is set, ensure the required packages are installed via the instructions above. The required packages for this script are dplyr, lubridate, and ggpubr. 
+* Once the working directory is set, ensure the required packages are installed via the instructions above. The required packages for this script are dplyr, lubridate, ggplot2, and ggpubr. 
 
 * After installing the necessary packages, press the "Source" button in the top, right corner of the script panel. This will execute all commands in the script from top to bottom, reproducing all of the plots. If the results from the AMT paper have not yet been reproduced, then the final plot will not work, and an error will be produced. This is because the final plot is of the results and needs results files. 
 
