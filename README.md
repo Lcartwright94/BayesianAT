@@ -23,30 +23,46 @@ The above csv files were created using the main data set (see above)
 
 ## To reproduce results
 
-Add additional notes about how to deploy this on a live system
+* Open either "Main_Ginninderra_Linux.R" or "Main_Ginninderra_Windows_Mac.R", depending on the operating system you run, in RStudio. Set the working directory to the folder containing the BayesianAT scripts, which you downloaded from Github (titled "Scripts" unless you have renamed it since downloading). This is done by going to Session -> Working Directory -> Choose Directory... in the top menu bar in RStudio. 
 
+* Once the working directory is set, ensure the required packages are installed. The required packages for this script are dplyr, tidyr, lubridate, fdrtool, coda, Matrix, and if running a Linux operating system, parallel. To load an already installed package (or check if a package is already installed), type 
+
+library(<package_name>)
+
+into the console and hit the enter/return button. If the package is not yet installed, the Console will return a message saying that the package could not be found. To install a package, type 
+
+install.packages("<package_name>")
+
+into the Console, and hit the enter/return key. 
+
+* After installing the necessary packages, press the "Source" button in the top, right corner of the script panel. This will execute all commands in the script from top to bottom, reproducing all of the results using the full model, with both upwind and downwind measurements, and when the methane-point-source is active.
+
+## To reproduce plots in AMT paper
+
+* Open "Plots.R" in RStudio, and set the working directory as described above.
+
+* Once the working directory is set, ensure the required packages are installed via the instructions above. The required packages for this script are dplyr, lubridate, and ggpubr. 
+
+* After installing the necessary packages, press the "Source" button in the top, right corner of the script panel. This will execute all commands in the script from top to bottom, reproducing all of the plots. If the results from the AMT paper have not yet been reproduced, then the final plot will not work, and an error will be produced. This is because the final plot is of the results and needs results files. 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Laura Cartwright** 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Andrew Zammit-Mangion
+* Sangheeta Bhatia
 
