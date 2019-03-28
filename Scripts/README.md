@@ -1,8 +1,8 @@
 ## Software license
 
-Reproducible code for "Bayesian atmospheric tomography for detection and quantification of methane emissions: Application to data from the 2015 Ginninderra release experiment" by Cartwright et al.
-Copyright (c) 2019 Laura Cartwright
-Author: Laura Cartwright (lcartwri@uow.edu.au)
+Reproducible code for "Bayesian atmospheric tomography for detection and quantification of methane emissions: Application to data from the 2015 Ginninderra release experiment" by Cartwright et al.  
+Copyright (c) 2019 Laura Cartwright  
+Author: Laura Cartwright (lcartwri@uow.edu.au)  
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
