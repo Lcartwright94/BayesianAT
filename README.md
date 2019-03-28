@@ -2,7 +2,7 @@
 
 This repository contains the dataset from the 2015 Ginninderra controlled-release experiment, and accompanying scripts to reproduce results presented in ... 
 
-All scripts are written in [R](https://www.r-project.org/).
+All scripts are written in [R](https://www.r-project.org/). The easiest way to run them (and the way described below) is via [RStudio](https://www.rstudio.com/). Note you must download and install R before RStudio.
 
 ## Downloading the repository
 
