@@ -63,6 +63,5 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Acknowledgments
 
-* Andrew Zammit-Mangion
-* Sangheeta Bhatia
+* 
 
