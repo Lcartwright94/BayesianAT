@@ -55,8 +55,6 @@ into the Console, and hit the enter/return key.
 
 * **Laura Cartwright** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 
