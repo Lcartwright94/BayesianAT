@@ -1,6 +1,6 @@
 # Project Title
 
-This repository contains the dataset from the 2015 Ginninderra controlled-release experiment, and accompanying scripts to reproduce results presented in Atmospheric Measurement Techniques (ICDC10 Special Issue).  
+This repository contains the dataset from the 2015 Ginninderra controlled-release experiment, and accompanying scripts to reproduce results presented in ... 
 
 All scripts are written in [R](https://www.r-project.org/).
 
