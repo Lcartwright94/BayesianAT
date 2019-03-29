@@ -18,7 +18,7 @@ git clone https://github.com/Lcartwright94/BayesianAT
 * GA-inversion-data-2: This is the data for the 5.0 g/min release period 
 
 ```diff
-- NOTE: the curated dataset (including suitable dictionaries) will be uploaded to the 
+- NOTE: the official curated data set (including suitable dictionaries) will be uploaded to the 
 - repository as soon as a DOI has been confirmed (should be soon!).
 ```
 
