@@ -18,12 +18,8 @@ git clone https://github.com/Lcartwright94/BayesianAT
 * GA-inversion-data-2: This is the data for the 5.0 g/min release period 
 
 ```diff
-- this will be highlighted in red
+- NOTE: the curated dataset will be uploaded to the repository as soon as a DOI has been confirmed (hopefully soon!).
 ```
-
-<body>
-<font style="color:red"><b>Note:</b></font>
-</body>
 
 ## To reproduce results
 
@@ -31,11 +27,15 @@ git clone https://github.com/Lcartwright94/BayesianAT
 
 * Once the working directory is set, ensure the required packages are installed. The required packages for this script are dplyr, tidyr, lubridate, fdrtool, coda, Matrix, and if running a Linux operating system, parallel. To load an already installed package (or check if a package is already installed), type 
 
+```diff
 library(<package_name>)
+```
 
 into the console and hit the enter/return button. If the package is not yet installed, the Console will return a message saying that the package could not be found. To install a package, type 
 
+```diff
 install.packages("<package_name>")
+```
 
 into the Console, and hit the enter/return key. 
 
