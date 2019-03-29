@@ -42,13 +42,13 @@ into the Console, and hit the enter/return key.
 
 * After installing the necessary packages, press the "Source" button in the top, right corner of the script panel. This will execute all commands in the script from top to bottom, reproducing all of the results using the full model, with both upwind and downwind measurements, and when the methane-point-source is active.
 
-## To reproduce plots in AMT paper
+## To reproduce plots in the paper
 
 * Open "Plots.R" in RStudio, and set the working directory as described above.
 
 * Once the working directory is set, ensure the required packages are installed via the instructions above. The required packages for this script are dplyr, lubridate, ggplot2, and ggpubr. 
 
-* After installing the necessary packages, press the "Source" button in the top, right corner of the script panel. This will execute all commands in the script from top to bottom, reproducing all of the plots. If the results from the AMT paper have not yet been reproduced, then the final plot will not work, and an error will be produced. This is because the final plot is of the results and needs results files. If the results have been reproduced, your final plot should look like this:
+* After installing the necessary packages, press the "Source" button in the top, right corner of the script panel. This will execute all commands in the script from top to bottom, reproducing all of the plots. If the results from the paper have not yet been reproduced, then the final plot will not work, and an error will be produced. This is because the final plot is of the results and needs results files. If the results have been reproduced, your final plot should look like this:
 
 <a rel="results" href="https://github.com/Lcartwright94/BayesianAT/blob/master/IMG/Final_res.png"><img alt="Results plot" style="border-width:0" src="https://github.com/Lcartwright94/BayesianAT/blob/master/IMG/Final_res.png" /></a>
 
