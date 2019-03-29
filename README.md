@@ -17,9 +17,11 @@ git clone https://github.com/Lcartwright94/BayesianAT
 * GA-inversion-data-1: This is the data for the 5.8 g/min release period 
 * GA-inversion-data-2: This is the data for the 5.0 g/min release period 
 
+<body>
 { color: red;
 <b> NOTE: </b> 
 }
+  </body>
 
 ## To reproduce results
 
