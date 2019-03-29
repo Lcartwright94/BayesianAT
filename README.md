@@ -1,6 +1,6 @@
 # Bayesian atmospheric tomography with application to data from the 2015 Ginninderra release experiment
 
-This repository contains a curated dataset from the 2015 Ginninderra controlled-release experiment, and accompanying scripts to reproduce results presented in "Bayesian atmospheric tomography for detection and quantification of methane emissions: Application to data from the 2015 Ginninderra release experiment", by Laura Cartwright, Andrew Zammit-Mangion, Sangeeta Bhatia, Ivan Schroder, Frances Phillips, Trevor Coates, Karita Neghandhi, Travis Naylor, Martin Kennedy, Steve Zegelin, Nick Wokker, Nicholas M. Deutscher, and Andrew Feitz.
+This repository contains a curated dataset from the 2015 Ginninderra controlled-release experiment, and accompanying scripts required to reproduce results presented in "Bayesian atmospheric tomography for detection and quantification of methane emissions: Application to data from the 2015 Ginninderra release experiment", by Laura Cartwright, Andrew Zammit-Mangion, Sangeeta Bhatia, Ivan Schroder, Frances Phillips, Trevor Coates, Karita Neghandhi, Travis Naylor, Martin Kennedy, Steve Zegelin, Nick Wokker, Nicholas M. Deutscher, and Andrew Feitz.
 
 All scripts are written in [R](https://www.r-project.org/). The easiest way to run them (and the way described below) is via [RStudio](https://www.rstudio.com/). Note you must download and install R before RStudio.
 
