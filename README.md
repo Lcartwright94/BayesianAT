@@ -12,16 +12,14 @@ git clone https://github.com/Lcartwright94/BayesianAT
 
 ## Data files provided
 
-### Main data file: 
-
-To be updated.
-
 ### CSV files used by the scripts
 
 * GA-inversion-data-1: This is the data for the 5.8 g/min release period 
 * GA-inversion-data-2: This is the data for the 5.0 g/min release period 
 
-The above csv files were created using the main data set (see above)
+{ color: red;
+<b> NOTE: </b> 
+}
 
 ## To reproduce results
 
