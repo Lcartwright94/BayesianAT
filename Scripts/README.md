@@ -12,3 +12,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 ## Data license
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All data in this repository is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> (Geoscience Australia).
+
+## Official curated data set
+
+The official curated data set (including suitable meta data and dictionaries) can be accessed at [ http://dx.doi.org/10.26186/5cb7f14abd710](http://dx.doi.org/10.26186/5cb7f14abd710).
