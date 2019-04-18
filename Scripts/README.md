@@ -1,3 +1,5 @@
+<b> DOI: </b> 10.5281/zenodo.2645730
+
 ## Software license
 
 Reproducible code for "Bayesian atmospheric tomography for detection and quantification of methane emissions: Application to data from the 2015 Ginninderra release experiment" by Cartwright et al.  
