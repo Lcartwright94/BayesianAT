@@ -10,12 +10,14 @@ This can either be done by clicking the green "Clone or download" button, or by 
 
 git clone https://github.com/Lcartwright94/BayesianAT
 
-## Data files provided
+## Data files
 
 ### CSV files used by the scripts
 
 * GA-inversion-data-1: This is the data for the 5.8 g/min release period 
 * GA-inversion-data-2: This is the data for the 5.0 g/min release period 
+
+### Official curated data set
 
 The official curated data set (including suitable meta data and dictionaries) can be accessed at [ http://dx.doi.org/10.26186/5cb7f14abd710](http://dx.doi.org/10.26186/5cb7f14abd710).
 
