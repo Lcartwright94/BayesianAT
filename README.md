@@ -1,6 +1,6 @@
 # Bayesian atmospheric tomography with application to data from the 2015 Ginninderra release experiment
 
-DOI: 10.5281/zenodo.2645730
+<b> DOI: </b> 10.5281/zenodo.2645730
 
 This repository contains a curated dataset from the 2015 Ginninderra controlled-release experiment, and accompanying scripts required to reproduce results presented in "Bayesian atmospheric tomography for detection and quantification of methane emissions: Application to data from the 2015 Ginninderra release experiment", by Laura Cartwright, Andrew Zammit-Mangion, Sangeeta Bhatia, Ivan Schroder, Frances Phillips, Trevor Coates, Karita Neghandhi, Travis Naylor, Martin Kennedy, Steve Zegelin, Nick Wokker, Nicholas M. Deutscher, and Andrew Feitz.
 
